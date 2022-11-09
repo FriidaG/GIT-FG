@@ -3,6 +3,8 @@ public class Main {
         System.out.println("Hello world! Change 4");
 
         System.out.println("Mitt huvud exploderar!!!!!");
+
+        System.out.println("TASK 6- merging");
     }
 
 }

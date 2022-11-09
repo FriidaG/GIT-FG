@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println("TASK 6- merging");
 
+        System.out.println("test 2");
     }
 
 }
